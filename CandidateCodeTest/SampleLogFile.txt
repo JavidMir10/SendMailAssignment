@@ -1,0 +1,80 @@
+﻿
+Log Entry : 7:56:28 AM Thursday, December 28, 2023
+  :
+  :hello, test
+-------------------------------
+
+Log Entry : 8:08:25 AM Thursday, December 28, 2023
+  :
+  :HasEmailBeenSent Method started
+-------------------------------
+
+Log Entry : 8:08:52 AM Thursday, December 28, 2023
+  :
+  :SendEmail Failed, Exception Message  Failure sending mail.
+-------------------------------
+
+Log Entry : 8:09:18 AM Thursday, December 28, 2023
+  :
+  :SendEmail Failed, Exception Message  Failure sending mail.
+-------------------------------
+
+Log Entry : 8:09:45 AM Thursday, December 28, 2023
+  :
+  :SendEmail Failed, Exception Message  Failure sending mail.
+-------------------------------
+
+Log Entry : 8:09:46 AM Thursday, December 28, 2023
+  :
+  :HasEmailBeenSent Method ended
+-------------------------------
+
+Log Entry : 8:13:03 AM Thursday, December 28, 2023
+  :
+  :HasEmailBeenSent Method started
+-------------------------------
+
+Log Entry : 8:13:29 AM Thursday, December 28, 2023
+  :
+  :SendEmail Failed, Retry Number : 3Exception Message  Failure sending mail.
+-------------------------------
+
+Log Entry : 8:13:53 AM Thursday, December 28, 2023
+  :
+  :SendEmail Failed, Retry Number : 2Exception Message  Failure sending mail.
+-------------------------------
+
+Log Entry : 8:14:17 AM Thursday, December 28, 2023
+  :
+  :SendEmail Failed, Retry Number : 1Exception Message  Failure sending mail.
+-------------------------------
+
+Log Entry : 8:14:21 AM Thursday, December 28, 2023
+  :
+  :HasEmailBeenSent Method ended
+-------------------------------
+
+Log Entry : 8:15:36 AM Thursday, December 28, 2023
+  :
+  :HasEmailBeenSent Method started
+-------------------------------
+
+Log Entry : 8:15:57 AM Thursday, December 28, 2023
+  :
+  :SendEmail Failed, Retry Number : 3, Exception Message  Failure sending mail.
+-------------------------------
+
+Log Entry : 8:16:18 AM Thursday, December 28, 2023
+  :
+  :SendEmail Failed, Retry Number : 2, Exception Message  Failure sending mail.
+-------------------------------
+
+Log Entry : 8:16:39 AM Thursday, December 28, 2023
+  :
+  :SendEmail Failed, Retry Number : 1, Exception Message  Failure sending mail.
+-------------------------------
+
+Log Entry : 8:16:39 AM Thursday, December 28, 2023
+  :
+  :HasEmailBeenSent Method ended
+-------------------------------
